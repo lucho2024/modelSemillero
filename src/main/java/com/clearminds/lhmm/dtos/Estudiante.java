@@ -13,6 +13,9 @@ public class Estudiante {
 		this.apellido = apellido;
 		this.id = id;
 	}
+	public Estudiante(){
+		
+	}
 	
 	public Estudiante(String nombre, String apellido) {
 		super();
